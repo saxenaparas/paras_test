@@ -1,6 +1,7 @@
 if(paras_test_fail == 'Fail'){
     print('Paras ko kuch nhi aata, bkl gawaar')
 }
+<br>
 else{
   print('Paras ko kuch nhi aata, bkl gawaar.dono cases mei gawaar hi hai tu !')
 }
